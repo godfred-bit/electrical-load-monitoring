@@ -4,9 +4,9 @@
 
 | Field | Information |
 |-------|-------------|
-| *Name* | BLANKSON KINGSFORD ACQUAH |
-| *Index* | 0124148D |
-| *GitHub Username* | bkacquah |
+| *Name* | GODFRED GYAMFI|
+| *Index* | 01240285D |
+| *GitHub Username* | godfed-bit |
 | *Programme* | HND Electrical Engineering |
 | *Course* | EEE 227 (PT) |
 | *Level* | 200 |
@@ -44,6 +44,6 @@
 | Week 4 | Feb 19-23 (4 commits) |
 | *TOTAL* | *13 commits* |
 
-⭐ Project completed for EEE 227 Midterm Capstone Project
+⭐ Project completed for EEE 227 Midsem Capstone Project
 👨‍💻 Author: BLANKSON ACQUAH
 📅 February 2026
