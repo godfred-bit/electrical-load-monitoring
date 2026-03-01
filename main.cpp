@@ -14,7 +14,7 @@
  * Level: 200
  * Institution: ACCRA TECHNICAL UNIVERSITY
  * 
- * Project: Midterm Capstone Project
+ * Project: Midsem Capstone Project
  * Weighting: 30%
  * Submission Date: February 23, 2026
  * Demonstration Date: February 24, 2026
@@ -481,6 +481,8 @@ string getValidString(string prompt) {
         
         return value;
     }
-}/ /   A d d e d   t o t a l   e n e r g y   c a l c u l a t i o n  
- / /   W e e k   2   c o m p l e t e  
+}/ /   A d d e d   t o t a l   e n e r g y   c a l c u l a t i o n 
+ 
+ / /   W e e k   2   c o m p l e t e 
+ 
  
