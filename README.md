@@ -45,5 +45,5 @@
 | *TOTAL* | *13 commits* |
 
 ⭐ Project completed for EEE 227 Midsem Capstone Project
-👨‍💻 Author: BLANKSON ACQUAH
+👨‍💻 Author: GODFRED GYAMFI
 📅 February 2026
